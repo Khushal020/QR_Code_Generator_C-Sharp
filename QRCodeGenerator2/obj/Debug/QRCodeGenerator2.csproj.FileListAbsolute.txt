@@ -1,0 +1,13 @@
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\QRCodeGenerator2.exe.config
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\QRCodeGenerator2.exe
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\QRCodeGenerator2.pdb
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\zxing.dll
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\zxing.presentation.dll
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\zxing.pdb
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\zxing.xml
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\zxing.presentation.pdb
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\bin\Debug\zxing.presentation.xml
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\obj\Debug\QRCodeGenerator2.csproj.CoreCompileInputs.cache
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\obj\Debug\QRCodeGenerator2.csproj.CopyComplete
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\obj\Debug\QRCodeGenerator2.exe
+C:\Users\PREMIUM\source\repos\QRCodeGenerator2\QRCodeGenerator2\obj\Debug\QRCodeGenerator2.pdb
